@@ -20,4 +20,4 @@ npm install
 npm run dev
 
 ## 🔗 Live Demo
-(Add your deployed link here)
+https://ayyan-react-notes-app.netlify.app/
